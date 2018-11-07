@@ -1,0 +1,17 @@
+lioraryepaz
+206240996
+Lior Paz
+
+Description - ex1:
+The exercise has 6 parts - 
+converstion of spoons into cups for Ron
+mathematical calculation for Hermaioni, Fred & George
+min & max function for Professor McGonagall
+quadratic equation solutions for Dudley
+shapes area calculation for Harry
+weather check for Hagrid
+
+In general, we used here in 3 main new feature - input, if & return
+
+Special Comments:
+The different math algorithms allow us to use values and functions from the math world.
